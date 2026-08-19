@@ -4,7 +4,7 @@ Personal portfolio project.
 
 ## About
 
-This repostory contains the source for my personal portfolio site.
+This repository contains the source for my personal portfolio site.
 
 ## Getting Started
 
